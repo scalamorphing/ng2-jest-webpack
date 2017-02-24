@@ -1,0 +1,25 @@
+{
+  "name": "ng2-jest-webpack",
+  "version": "0.0.1",
+  "description": "Seed(angular2 && jest && webpack2)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scalamorphing/ng2-jest-webpack.git"
+  },
+  "keywords": [
+    "angular2",
+    "webpack2",
+    "jest",
+    "seed"
+  ],
+  "author": "Maxim Chepel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scalamorphing/ng2-jest-webpack/issues"
+  },
+  "homepage": "https://github.com/scalamorphing/ng2-jest-webpack#readme"
+}
